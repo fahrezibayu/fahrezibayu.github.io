@@ -6,8 +6,6 @@
 
     <div class="row mt-5">
         <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
-                
-
             <p class="mt-5 lh-lg w-95 text-me">
                 Hello There! <br />
                 I'm Fahrezi Bayu, currently working as freelancer, you can check 
@@ -47,7 +45,7 @@
         </div>
 
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&layout=compact&theme=vue" class = "img-fluid"> -->
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&layout=compact&theme=vue" class = "img-fluid">
 
             <h4 class="mt-5 title">
                 Framework

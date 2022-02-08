@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg navbar-light p-5 resize-nav">
         <!-- <div class="container-fluid"> -->
         <a class="navbar-brand fs-3" href="#">
-            <div class="text-primary-m fw-bold">FBP.</div>
+            <div class="text-primary-m fw-bold">FB.</div>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
             aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -11,8 +11,8 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav mx-auto order-0">
-                <li class="nav-item  active">
-                    <a class="nav-link" aria-current="page" href="#home" >Home</a>
+                <li class="nav-item  ">
+                    <a class="nav-link active" aria-current="page" href="#home" >Home</a>
                 </li>
                 <li class="nav-item ">
                     <a class="nav-link" v-scroll-to="'#specialize'" href="#specialize">Specialize</a>
@@ -25,7 +25,7 @@
                 </li>
             </ul>
             <div class="d-flex text-muted ">
-                <a href="https://www.instagram.com/bayfahrezi/" target="_blank" class="brand">
+                <a href="https://www.instagram.com/_fahrezibayu/" target="_blank" class="brand">
                     <ion-icon name="logo-instagram" class="me-3" size="large"></ion-icon>
                 </a>
                 <a href="https://github.com/fahrezibayu" target="_blank" class="brand">
@@ -56,7 +56,7 @@
                                     <h4>Hi!</h4>
                                     <label for="mail">
                                         you can reach me on gmail :
-                                        <b>fbp.mj32@gmail.com</b>
+                                        <b>nabielmada@gmail.com</b>
                                     </label>
                                     <p></p>
                                     Nice to meet you soon.
