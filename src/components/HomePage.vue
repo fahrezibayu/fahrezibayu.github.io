@@ -256,7 +256,7 @@
             <kinesis-element :strength="15">
           <img
             src="/asset/icon/comp.png"
-            class="img-fluid rounded-start"
+            class="img-fluid rounded-start foto-specialize"
             draggable="false"
           />
             </kinesis-element>
