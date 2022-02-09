@@ -104,7 +104,7 @@
                     <hr>
                 </div>
                 <div class="col-lg-2 col-3 mx-2">
-                    <img src="/asset/icon/nodejs1.png" alt="" srcset="">
+                    <img src="/asset/icon/icon-nodejs.png" alt="" srcset="">
                 </div>
                 <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
                     Node JS
