@@ -51,7 +51,7 @@
                     <div class="badge bg-primary w-25 text-white"><small>Team</small></div>
                 </div>
                 <div class="card-body">
-                    <div class="card-title text-center mb-3 text-secondary">PT. Berkat Lestari Pratama</div>
+                    <div class="card-title text-center mb-3 text-secondary">PT. Neritama Karya Lestari</div>
                     <div class="text-center">
                         <img src="/portofolio/bg-portofolio-2.png" draggable="false" class="card-img-top bg-portofolio" alt="...">
                     </div>

@@ -15,26 +15,6 @@
             Co-Founder <b>@Sulungsoft</b> Team and specialize in full stack web
             development.
           </p>
-
-          <div class="row pt-3 mb-3">
-            <div class="col-lg-7">
-              <input
-                type="text"
-                name=""
-                id=""
-                class="form-control form-control-lg"
-                placeholder="Enter your email address..."
-              />
-            </div>
-            <div class="col-lg-4 connect-me">
-              <div class="d-grid">
-                <button class="btn btn-lg btn-primary shadow">
-                  <small>Connect with me</small>
-                </button>
-              </div>
-            </div>
-          </div>
-
           <br />
           <div class="row pt-3 summary">
             <div class="col-lg-1 col-2">
@@ -60,7 +40,7 @@
           </div>
         </div>
 
-        <div class="col-lg-5" style="margin-top:-120px;">
+        <div class="col-lg-5">
           <kinesis-container>
             <kinesis-element :strength="15">
               <img
@@ -88,7 +68,7 @@
             data-aos-delay="200"
           >
             <div class="row g-0 my-3 guidelines">
-              <div class="col-md-4 mt-3 text-end">
+              <div class="col-md-4 mt-3 text-center">
                 <img
                   src="/asset/icon/icon-heading-1.png"
                   class="img-fluid rounded-start"
@@ -114,7 +94,7 @@
             data-aos-delay="250"
           >
             <div class="row g-0 my-3 guidelines">
-              <div class="col-md-4 mt-3 text-end">
+              <div class="col-md-4 mt-3 text-center">
                 <img
                   src="/asset/icon/icon-heading-2.png"
                   class="img-fluid rounded-start"
@@ -140,7 +120,7 @@
             data-aos-delay="300"
           >
             <div class="row g-0 my-3 guidelines">
-              <div class="col-md-4 mt-3 text-end">
+              <div class="col-md-4 mt-3 text-center">
                 <img
                   src="/asset/icon/icon-heading-3.png"
                   class="img-fluid rounded-start"

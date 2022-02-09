@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
 
+
 #app {
     font-family: 'Nunito', sans-serif;
 }
@@ -14,14 +15,14 @@
 }
 
 .nav-link {
-    margin-right: 50px;
+    margin-right: 20px;
 }
 .nav-link:hover{
-    color: #407BFF !important;
+    color: #4FC033 !important;
 }
 
 .navbar-nav li.active > a {
-    color: #407BFF !important;
+    color: #4FC033 !important;
     font-weight: bold;
 }
 input,
@@ -30,7 +31,7 @@ input::-webkit-input-placeholder {
 }
 
 .text-primary-m {
-    color: #407BFF;
+    color: #4FC033;
 }
 
 .heading {
@@ -70,6 +71,7 @@ input::-webkit-input-placeholder {
     height: auto;
     top: -30px;
     left: 7%;
+    margin-top:-50px;
 }
 
 mark {
@@ -85,7 +87,7 @@ mark {
 }
 
 .vlh {
-    border-left: 4px solid #4FC033;
+    border-left: 4px solid #407BFF;
     height: 500px;
     margin-right: 1.5%;
     /* opacity: 50%; */

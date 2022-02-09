@@ -9,7 +9,7 @@
   <!-- <div class="elfsight-app-85a89ec3-d25e-4f69-b8d9-c16f784b27ce" data-aos="fade-up" data-aos-delay="300"></div> -->
 
 
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="250">
+      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
          <div class="card hover-card">
              <div class="card-body">
                  <div class="text-muted p-3">
@@ -21,7 +21,7 @@
                          <img src="/avatar/avatar-7.png" draggable="false" class="h-75" alt="" srcset="">
                      </div>
                      <div class="col col card-name-review mx-4">
-                         Irfan Wihatnata <br/>
+                         Figo Juanda <br/>
                          Mahasiswa
                      </div>
                  </div>
@@ -30,28 +30,7 @@
          </div>
      </div>
 
-     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="350">
-         <div class="card hover-card">
-             <div class="card-body">
-                 <div class="text-muted p-3">
-                     Good service with the good quality design. I just wanted to share a quick note and let you know that you guys do a really good job.
-                     I'm glad I decided to work with you.
-                 <hr/>
-                 <div class="row g-0 card-review mx-3 mt-4">
-                     <div class="col-lg-2 col-3 text-end">
-                         <img src="/avatar/avatar-8.png" draggable="false" class="h-75" alt="" srcset="">
-                     </div>
-                     <div class="col col card-name-review mx-4">
-                         Lisa Aurellia Putri<br/>
-                         Wirausaha
-                     </div>
-                 </div>
-                 </div>
-             </div>
-         </div>
-     </div>
-
-     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="450">
+     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="450">
          <div class="card hover-card">
              <div class="card-body">
                  <div class="text-muted p-3">
@@ -63,7 +42,7 @@
                          <img src="/avatar/avatar-9.png" draggable="false" class="h-75" alt="" srcset="">
                      </div>
                      <div class="col col card-name-review mx-4">
-                        Dimas Dwi<br/>
+                        Fajar Malik <br/>
                          Karyawan Swasta
                      </div>
                  </div>

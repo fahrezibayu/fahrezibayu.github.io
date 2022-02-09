@@ -59,7 +59,6 @@
                     Laravel 8
                     <hr>
                 </div>
-
                 <div class="col-lg-2 col-3 mx-2">
                     <img src="/asset/icon/icon-tools-bootstrap.png" alt="" srcset="">
                 </div>
@@ -76,6 +75,13 @@
                     <hr>
                 </div>
 
+                <div class="col-lg-2 col-3 mx-2">
+                    <img src="/asset/icon/NextJS1.png" alt="" srcset="">
+                </div>
+                <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
+                    Next JS
+                    <hr>
+                </div>
                 <div class="col-lg-2 col-3 mx-2">
                     <img src="/asset/icon/icon-tools-firebase.png" alt="" srcset="">
                 </div>
@@ -97,7 +103,13 @@
                     Visual Studio Code
                     <hr>
                 </div>
-
+                <div class="col-lg-2 col-3 mx-2">
+                    <img src="/asset/icon/nodejs1.png" alt="" srcset="">
+                </div>
+                <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
+                    Node JS
+                    <hr>
+                </div>
                 <div class="col-lg-2 col-3 mx-2">
                     <img src="/asset/icon/icon-tools-xampp.png" alt="" srcset="">
                 </div>
