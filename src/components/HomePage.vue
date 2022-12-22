@@ -4,7 +4,7 @@
 
     <div class="container pt-4">
       <div class="row">
-        <div class="col-lg-7" data-aos="fade-right" data-aos-delay="200">
+        <div class="col-lg-7 mt-5" data-aos="fade-right" data-aos-delay="200">
           <div class="heading lh-sm">
             Hello. <br />
             I'm <mark> Fahrezi Bayu </mark> <br />
@@ -15,29 +15,6 @@
             Co-Founder <b>@Sulungsoft</b> Team and specialize in full stack web
             development.
           </p>
-          <br />
-          <div class="row pt-3 summary">
-            <div class="col-lg-1 col-2">
-              <span class="h1">2</span>
-            </div>
-            <div class="col-lg-3 col-10 text-muted">
-              <small>YEARS EXPERIENCE</small>
-            </div>
-
-            <div class="col-lg-1 col-2">
-              <span class="h1">3</span>
-            </div>
-            <div class="col-lg-3 col-10 text-muted">
-              <small>HAPPY CUSTOMERS</small>
-            </div>
-
-            <div class="col-lg-1 col-2">
-              <span class="h1">4</span>
-            </div>
-            <div class="col-lg-3 col-10 text-muted">
-              <small>PROJECTS COMPLETE </small>
-            </div>
-          </div>
         </div>
 
         <div class="col-lg-5">

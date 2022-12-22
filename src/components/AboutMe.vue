@@ -6,7 +6,7 @@
 
     <div class="row mt-5">
         <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
-            <p class="mt-5 lh-lg w-95 text-me">
+            <p class="lh-lg w-95 text-me">
                 Hello There! <br />
                 I'm Fahrezi Bayu, currently working as freelancer, you can check 
                 my portofolio. Excited to create projects and to help others, i'm currently 
@@ -30,7 +30,7 @@
                     <p class="title h4 mt-5">
                         My Age
                     </p>
-                    21 year's old.
+                    22 year's old.
                 </div>
                 <div class="col-lg-4">
                     <p class="title h4 mt-5">
@@ -60,6 +60,13 @@
                     <hr>
                 </div>
                 <div class="col-lg-2 col-3 mx-2">
+                    <img src="/asset/icon/icon-tools-ci.png" alt="" srcset="">
+                </div>
+                <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
+                    CodeIgniter 4
+                    <hr>
+                </div>
+                <div class="col-lg-2 col-3 mx-2">
                     <img src="/asset/icon/icon-tools-bootstrap.png" alt="" srcset="">
                 </div>
                 <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
@@ -72,14 +79,6 @@
                 </div>
                 <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
                      Vue JS & CLI
-                    <hr>
-                </div>
-
-                <div class="col-lg-2 col-3 mx-2">
-                    <img src="/asset/icon/icon-nextjs.png" alt="" srcset="">
-                </div>
-                <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
-                    Next JS
                     <hr>
                 </div>
                 <div class="col-lg-2 col-3 mx-2">
@@ -115,6 +114,13 @@
                 </div>
                 <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
                     Xampp
+                    <hr>
+                </div>
+                <div class="col-lg-2 col-3 mx-2">
+                    <img src="/asset/icon/icon-tools-mysql.png" alt="" srcset="">
+                </div>
+                <div class="col-lg-9 col-8 text-muted sub-title-2 pt-1">
+                    Mysql
                     <hr>
                 </div>
 

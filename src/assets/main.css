@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
-
-
 #app {
     font-family: 'Nunito', sans-serif;
 }
@@ -17,21 +15,37 @@
 .nav-link {
     margin-right: 20px;
 }
-.nav-link:hover{
+
+.nav-link:hover {
     color: #4FC033 !important;
 }
 
-.navbar-nav li.active > a {
+.navbar-nav li.active>a {
     color: #4FC033 !important;
     font-weight: bold;
 }
+
 input,
 input::-webkit-input-placeholder {
     font-size: 18px;
 }
 
 .text-primary-m {
-    color: #4FC033;
+    color: #407BFF;
+}
+
+.nav-link {
+    margin-right: 10px;
+}
+
+.nav-link:hover {
+    color: #407BFF !important;
+    font-weight: bold;
+}
+
+.navbar-nav li.active>a {
+    color: #407BFF !important;
+    font-weight: bold;
 }
 
 .heading {
@@ -71,7 +85,7 @@ input::-webkit-input-placeholder {
     height: auto;
     top: -30px;
     left: 7%;
-    margin-top:-50px;
+    margin-top: -50px;
 }
 
 mark {
@@ -197,55 +211,44 @@ mark {
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
-
-    .container{
+    .container {
         max-width: 100%;
         padding: 50px;
     }
-
-    .resize-nav{
-       padding-bottom: 0em !important;
-       padding-top: 1.5em !important;
+    .resize-nav {
+        padding-bottom: 0em !important;
+        padding-top: 1.5em !important;
     }
-
     .heading {
         font-weight: 900;
         font-size: 1.9rem;
         /* margin-top: -1em; */
     }
-
     .heading-2 {
         font-size: 1.9rem;
     }
-
     .sub-heading {
         font-size: 1.1rem;
         max-width: 100%;
     }
-
-    .sub-heading-resize{
+    .sub-heading-resize {
         font-size: 1rem;
     }
-
     .text-guidlines {
         font-size: 0.96rem;
     }
-
     .vlh {
         border-left: 4px solid #4FC033;
         height: 500px;
         margin-right: 5%;
         /* opacity: 50%; */
     }
-
     .text-mail {
         padding-left: 3em;
     }
-
     .img-mail {
         margin-left: 5.5em;
     }
-
     mark {
         display: inline-block;
         line-height: 0em;
@@ -253,65 +256,50 @@ mark {
         padding-bottom: 0.3em;
         background-color: #EFF4FF;
     }
-
     .foto-heading {
         position: static;
         max-width: 95%;
         height: auto;
         padding-top: 1em;
     }
-
     .sub-title {
         font-size: 16px;
     }
-
     .text-size {
         font-size: 15px;
     }
-
     .summary {
         padding-left: 2em;
     }
-
     .connect-me {
         margin-top: 1.5em;
         margin-bottom: 2em;
     }
-
     .title-specialize {
         font-size: 20px;
-
     }
-
     .guidelines {
         text-align: center;
     }
-
     .guidelines .text-end {
         padding-right: 95px;
     }
-    
-    .figma-resize{
+    .figma-resize {
         padding-right: 8% !important;
     }
-
     .foto-specialize {
         display: none;
     }
-
     .hire-me {
         padding-bottom: 20px;
     }
-
     .card-porto {
         --bs-gutter-x: 0rem;
     }
-
     .avatar-porto {
         margin-right: 1.5em !important;
         margin-left: 0em !important;
     }
-
     .bg-wave {
         position: relative;
         background-image: url('/asset/bg/bg-wave.png');
@@ -319,85 +307,66 @@ mark {
         background-repeat: no-repeat;
         height: auto;
     }
-
     /* Visit My Team */
-
-
     .box-team {
         padding: 0rem;
         margin: 0rem;
-            position: relative;
-            height: 20em;
-            max-width: 100%;
-            display: none;
+        position: relative;
+        height: 20em;
+        max-width: 100%;
+        display: none;
     }
-
     .text-vt {
         font-size: 12px;
     }
-
     .text-vt-2 {
         font-size: 11px;
     }
-
     .bg-testi {
         background-image: none;
     }
-
-    .img-ava{
+    .img-ava {
         width: 9em;
     }
-
-    .btn-resize{
+    .btn-resize {
         padding: 0.25rem 0.5rem;
         font-size: 0.875rem;
         border-radius: 0.2rem;
     }
-
-    .margin-resize{
+    .margin-resize {
         margin-top: 15px !important;
     }
-
-    .body-resize{
+    .body-resize {
         padding-top: 0% !important;
         padding-bottom: 0% !important;
     }
-
     /* ---------------------- */
-
     .box-aboutme {
         margin-top: 1rem;
     }
-
     .vid-about-me {
         max-width: 100%;
         height: auto;
     }
-
     .text-me {
         font-size: 16px;
     }
-
     .list-about-me {
         margin-left: 0em !important;
         margin-right: 0em !important;
     }
-
     .card-review {
         margin-left: 0em !important;
         margin-right: 0em !important;
     }
-
     .card-name-review {
         margin-left: 1em !important;
         margin-right: 0em !important;
     }
-
     .box-footer {
         margin-top: 5em;
         padding: 0em;
     }
-
     .bg-footer-1 {
         position: absolute;
         height: 8em;
@@ -405,7 +374,6 @@ mark {
         top: -35px;
         z-index: 1;
     }
-
     .bg-footer-2 {
         position: absolute;
         height: 3.5em;
@@ -413,29 +381,23 @@ mark {
         top: 284px;
         z-index: 1;
     }
-
     .text-have {
         font-size: 1em;
         padding-top: 1em;
     }
-
     .bg-footer {
         width: 100%;
         padding-top: 0em;
     }
-
     .bg-card-footer {
         padding-top: 0em;
         margin-top: 1em !important;
         margin-bottom: 1em !important;
     }
-
     .text-sk {
         font-size: 0.6em;
     }
-
     .footer {
         padding-top: 5em;
     }
-
 }
